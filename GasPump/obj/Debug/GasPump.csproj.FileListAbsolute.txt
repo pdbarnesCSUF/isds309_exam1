@@ -1,0 +1,6 @@
+C:\Users\pdbarnes\Desktop\GasPump\GasPump\bin\Debug\GasPump.exe.config
+C:\Users\pdbarnes\Desktop\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\pdbarnes\Desktop\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\pdbarnes\Desktop\GasPump\GasPump\obj\Debug\GasPump.csprojResolveAssemblyReference.cache
+C:\Users\pdbarnes\Desktop\GasPump\GasPump\obj\Debug\GasPump.exe
+C:\Users\pdbarnes\Desktop\GasPump\GasPump\obj\Debug\GasPump.pdb
